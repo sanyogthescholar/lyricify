@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1DB954</color>
+    <color name="colorPrimaryDark">#191414</color>
+    <color name="colorAccent">#B2191414</color>
+
+
+    <color name="trackColor">#1DB954</color>
+    <color name="WHITE">#FFFFFF</color>
+    <color name="actionBarColor">#1DB954</color>
+    <color name="buttonBackground">#1DB954</color>
+    <color name="cardViewBackground">#FFFFFFFF</color>
+
+
+</resources>
