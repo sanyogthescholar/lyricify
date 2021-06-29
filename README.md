@@ -25,6 +25,10 @@ You can view real time lyrics for (almost) any song playing via Spotify.
 ![ss_2](https://github.com/sanyogthescholar/lyricify/raw/master/img/ss_2.png)<br /><br /><br />
 ![ss_3](https://github.com/sanyogthescholar/lyricify/raw/master/img/ss_3.png)
 
+## Demo Video
+Click on the image below to play the video<br /><br />
+[![demo_vid](http://img.youtube.com/vi/Rfd9xjL4eHU/0.jpg)](https://youtu.be/Rfd9xjL4eHU "Lyricify App Demo")
+
 ## Bugs? Questions? I am here to help
 First, search for your issue in the [issues](https://github.com/sanyogthescholar/lyricify/issues) tab. If you don't find it, feel free to open a [new](https://github.com/sanyogthescholar/lyricify/issues/new) issue.
 
