@@ -8,7 +8,7 @@ An app to show you time synced lyrics for your favourite songs!
 You can view real time lyrics for (almost) any song playing via Spotify.
 
 ## Installation and Setup Instructions
-1. Go to the releases section.
+1. Go to the [releases](https://github.com/sanyogthescholar/lyricify/releases/tag/v0.1-beta) section.
 2. Download and install the latest APK.
 3. Open Spotify, go to settings and make sure that device broadcast status is turned on. Lyricify will not work without it.
 4. Now open Lyricify, turn on the lyrics switch and you'll see media controls pop up. It is not necessary to enter the API key.
