@@ -8,8 +8,16 @@
     <color name="trackColor">#1DB954</color>
     <color name="WHITE">#FFFFFF</color>
     <color name="actionBarColor">#1DB954</color>
-    <color name="buttonBackground">#1DB954</color>
     <color name="cardViewBackground">#FFFFFFFF</color>
+
+    <!--light color Tanish-->
+    <color name="fadepurple">#ede7f6</color>
+    <color name="fadepurple1">#d1c4e9</color>
+    <color name="fadepurple2">#b39ddb</color>
+    <color name="fadeblue">#90caf9</color>
+    <color name="buttonBackground">#000</color>
+    <color name="black">#000</color>
+    <color name="white">#eee</color>
 
 
 </resources>

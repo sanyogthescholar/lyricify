@@ -4,21 +4,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/fadepurple"
     tools:context="com.sanyog.lyricify.MainActivity">
-
-    <ImageView
-        android:id="@+id/albumartimage"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:scaleType="centerCrop"
-        tools:srcCompat="@tools:sample/avatars" />
 
 
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:layout_marginTop="?attr/actionBarSize">
+        android:layout_marginTop="?attr/actionBarSize"
+        android:background="@color/fadepurple">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -33,7 +28,8 @@
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:orientation="vertical">
+                    android:orientation="vertical"
+                    android:background="@color/fadepurple">
 
                     <com.google.android.material.switchmaterial.SwitchMaterial
                         android:id="@+id/adSwitch"
@@ -45,6 +41,7 @@
                         android:scaleX="1.5"
                         android:scaleY="1.5"
                         android:text="Lyrics"
+                        android:fontFamily="@font/offside"
                         app:switchPadding="10dp"
                         app:thumbTint="@color/colorPrimaryDark"
                         app:useMaterialThemeColors="true" />
@@ -97,6 +94,13 @@
                             android:layout_marginEnd="10dp"
                             android:textAlignment="center"
                             android:textSize="14sp" />
+
+                        <ImageView
+                            android:id="@+id/albumartimage"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:scaleType="centerCrop"
+                            tools:srcCompat="@tools:sample/avatars" />
 
                     </LinearLayout>
 
@@ -188,10 +192,11 @@
                         android:id="@+id/terminalOutput"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
+                        android:fontFamily="@font/offside"
                         android:gravity="center"
                         android:maxLines="8"
-                        android:textSize="25dp"
-                        android:text="Lyrics show here"/>
+                        android:text="Lyrics show here"
+                        android:textSize="25dp" />
 
 
                 </RelativeLayout>
